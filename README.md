@@ -19,10 +19,16 @@ App desenvolvido durante o curso Spring-boot Ionic do professor Nélio Alves - D
   
 
 # Modelo Conceitual 
-https://github.com/mrraxa01/dsdeliver-sds2/blob/main/assets/modelo-conceitual.png
+
 ![Modelo Conceitual](https://github.com/mrraxa01/app_springionic/blob/master/assets/diagrama.png)
 
+#Layout
 
+![Tela Login](https://github.com/mrraxa01/app_springionic/blob/master/assets/tela_login.png)
+![Profile](https://github.com/mrraxa01/app_springionic/blob/master/assets/profile.png)
+![Produtos](https://github.com/mrraxa01/app_springionic/blob/master/assets/produtos.png)
+![Detalhes Produtos](https://github.com/mrraxa01/app_springionic/blob/master/assets/detalhes_produto.png)
+![Carrinho de compras](https://github.com/mrraxa01/app_springionic/blob/master/assets/carrinho de compras.png)
 ```
 # Autor
 **Márcio Rodrigues Rezende**
