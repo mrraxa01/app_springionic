@@ -20,7 +20,7 @@ App desenvolvido durante o curso Spring-boot Ionic do professor Nélio Alves - D
 
 # Modelo Conceitual 
 
-![Modelo Conceitual](https://github.com/mrraxa01/dsdeliver-sds2/blob/main/assets/modelo-conceitual.png)
+![Modelo Conceitual](assets/diagrama.png)
 
 
 ```
