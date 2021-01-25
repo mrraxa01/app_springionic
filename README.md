@@ -19,8 +19,8 @@ App desenvolvido durante o curso Spring-boot Ionic do professor Nélio Alves - D
   
 
 # Modelo Conceitual 
-
-![Modelo Conceitual](https://github.com/mrraxa01/app_springionic/master/assets/diagrama.png)
+https://github.com/mrraxa01/dsdeliver-sds2/blob/main/assets/modelo-conceitual.png
+![Modelo Conceitual](https://github.com/mrraxa01/app_springionic/blob/master/assets/diagrama.png)
 
 
 ```
