@@ -29,7 +29,6 @@ App desenvolvido durante o curso Spring-boot Ionic do professor Nélio Alves - D
 ![Produtos](https://github.com/mrraxa01/app_springionic/blob/master/assets/produtos.png)
 ![Detalhes Produtos](https://github.com/mrraxa01/app_springionic/blob/master/assets/detalhes_produto.png)
 ![Carrinho de compras](https://github.com/mrraxa01/app_springionic/blob/master/assets/carrinho de compras.png)
-```
 # Autor
 **Márcio Rodrigues Rezende**
 mrraxa01@gmail.com
